@@ -1,6 +1,5 @@
 ---
 description: Thesis Knowledge Dump
-hidden: true
 ---
 
 # 🤓 TUHH-NIT
