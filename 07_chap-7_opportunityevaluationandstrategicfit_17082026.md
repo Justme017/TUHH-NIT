@@ -1,4 +1,4 @@
-# 07\_chap 7\_OpportunityEvaluationAndStrategicFit\_17082026
+# Chapter 7: Opportunity Evaluation And Strategic Fit
 
 _Master Thesis: Identification and Evaluation of Business Opportunities for Biofilm Management Solutions in Dialysis Systems_\
 _&#x44;.Med Consulting GmbH × TUHH/NIT_
