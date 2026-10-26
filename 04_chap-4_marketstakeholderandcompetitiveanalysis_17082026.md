@@ -1,4 +1,4 @@
-# 04\_chap 4\_MarketStakeholderAndCompetitiveAnalysis\_17082026
+# 04 Chapter 4: Market Stakeholder And Competitive Analysis
 
 _Master Thesis: Identification and Evaluation of Business Opportunities for Biofilm Management Solutions in Dialysis Systems_\
 _&#x44;.Med Consulting GmbH × TUHH/NIT_
