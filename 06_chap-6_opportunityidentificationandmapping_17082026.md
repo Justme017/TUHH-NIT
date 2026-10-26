@@ -1,4 +1,4 @@
-# 06\_chap 6\_OpportunityIdentificationAndMapping\_17082026
+# Chapter 6: Opportunity Identification And Mapping
 
 _Master Thesis: Identification and Evaluation of Business Opportunities for Biofilm Management Solutions in Dialysis Systems_\
 _&#x44;.Med Consulting GmbH × TUHH/NIT_
