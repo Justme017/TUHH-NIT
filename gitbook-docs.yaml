@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: TUHh NiTHh
+  structure:
+    - type: space
+      key: space-1
+      title: Version 17th Aug 2026
+      path: untitled
+      default: true
+      content:
+        directory: ./untitled
