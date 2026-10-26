@@ -1,4 +1,4 @@
-# 02 Chapter 2: Biofilm Technical Foundation
+# Chapter 2: Biofilm Technical Foundation
 
 _Master Thesis: Identification and Evaluation of Business Opportunities for Biofilm Management Solutions in Dialysis Systems_\
 _&#x44;.Med Consulting GmbH × TUHH/NIT_
