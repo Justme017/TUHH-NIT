@@ -1,4 +1,4 @@
-# 01\ chap 1\ Introduction\
+# 01 chap 1 Introduction
 
 _Master Thesis: Identification and Evaluation of Business Opportunities for Biofilm Management Solutions in Dialysis Systems_\
 _&#x44;.Med Consulting GmbH × TUHH/NIT_\
