@@ -1,4 +1,4 @@
-# 05 Chapter 5: Regulatory And Compliance Analysis
+# Chapter 5: Regulatory And Compliance Analysis
 
 _Master Thesis: Identification and Evaluation of Business Opportunities for Biofilm Management Solutions in Dialysis Systems_\
 _&#x44;.Med Consulting GmbH × TUHH/NIT_
