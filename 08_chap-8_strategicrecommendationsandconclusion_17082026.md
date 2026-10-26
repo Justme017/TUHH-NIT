@@ -1,4 +1,4 @@
-# 08\_chap 8\_StrategicRecommendationsAndConclusion\_17082026
+# Chapter 8: Strategic Recommendations And Conclusion
 
 _Master Thesis: Identification and Evaluation of Business Opportunities for Biofilm Management Solutions in Dialysis Systems_\
 _&#x44;.Med Consulting GmbH × TUHH/NIT_
