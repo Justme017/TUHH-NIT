@@ -1,4 +1,4 @@
-# 03\_chap 3\_ResearchMethodology\_17082026
+# 03 Chapter 3: Research Methodology
 
 _Master Thesis: Identification and Evaluation of Business Opportunities for Biofilm Management Solutions in Dialysis Systems_\
 _&#x44;.Med Consulting GmbH × TUHH/NIT_
