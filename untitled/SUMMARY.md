@@ -9,3 +9,4 @@
 * [06\_chap 6\_OpportunityIdentificationAndMapping\_17082026](06_chap-6_opportunityidentificationandmapping_17082026.md)
 * [07\_chap 7\_OpportunityEvaluationAndStrategicFit\_17082026](07_chap-7_opportunityevaluationandstrategicfit_17082026.md)
 * [08\_chap 8\_StrategicRecommendationsAndConclusion\_17082026](08_chap-8_strategicrecommendationsandconclusion_17082026.md)
+* [08\_chap 8\_StrategicRecommendationsAndConclusion\_17082026](08_chap-8_strategicrecommendationsandconclusion_17082026-1.md)
